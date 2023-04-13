@@ -1,0 +1,14 @@
+.hidden{
+    display: none;
+}
+.name{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.changesize{
+    width: 400px;
+    height: 300px;
+}
+.big{
+    font-size: 4em;
+}
